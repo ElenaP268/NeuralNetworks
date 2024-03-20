@@ -1,1 +1,1 @@
-# MNIST_NeuralNetwork
+NeuralNetworks
